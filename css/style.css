@@ -1,0 +1,184 @@
+body{
+    background-color: white;
+    margin: 0px;
+    padding: 0px;
+}
+
+header{
+    background-color:white;
+    color: black;
+    padding: 0.1em;
+    width: 100%;
+    height: 45px;
+    font-size: 35px;
+}
+
+.img-media{
+    border-radius: 50px;
+    max-width: 25px;
+    float: right;
+    margin-right: 10px;
+}
+
+.links{
+    margin-top: -35px;
+}
+
+footer{
+    background-color: rgb(21, 10, 87);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    margin-top: 15px;
+    width: 100%;
+    height: 50px;
+}
+
+.titulo-pagina{
+    font-family: 'Carrois Gothic SC', sans-serif;
+    float: left;
+}
+
+.menu>nav>a{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    padding-left: 175px;
+}
+
+.texto-aside{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    margin-left: 900px;
+    margin-top: -200px;
+}
+
+.Post1{
+    background: rgb(48, 162, 255);
+    float: left;
+    margin-top: 0px;
+    margin-left: 10px;
+    width: 27.5%;
+    height: 225px;
+    border-radius: 5px;
+}
+
+.Post1>h1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: right;
+    margin-top: 10px;
+    margin-right: 45px;
+}
+
+.Izquierda>p{
+    margin-right: 25px;
+    text-align: right;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Imagen1{
+    float: left;
+    margin-top: -111px;
+    border-radius: 5px;
+}
+
+.Izquierda>a{
+    border: 1px solid black;
+    background-color: white;
+    border-radius: 3px;
+    color: black;
+    font-weight: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 55%;
+    padding: 5px 10px;
+    text-align: left;
+    text-decoration: none;
+}
+
+
+
+.Post2{
+    background: rgb(48, 162, 255);
+    margin-top: 175px;
+    margin-left: 500px;
+    width: 27.5%;
+    height: 225px;
+    border-radius: 5px;
+}
+
+.Post2>h1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: right;
+    margin-top: 10px;
+    margin-right: 45px;
+}
+
+.Centro>p{
+    margin-right: 20px;
+    text-align: right;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Imagen2{
+    float: left;
+    margin-top: -101px;
+    border-radius: 5px;
+}
+
+.Centro>a{
+    border: 1px solid black;
+    background-color: white;
+    border-radius: 3px;
+    color: black;
+    font-weight: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 55%;
+    padding: 5px 10px;
+    text-align: left;
+    text-decoration: none;
+}
+
+
+
+.Post3{
+    background: rgb(48, 162, 255);
+    float: right;
+    margin-top: -225px;
+    margin-right: 10px;
+    width: 27.5%;
+    height: 225px;
+    border-radius: 5px;
+}
+
+.Post3>h1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: right;
+    margin-top: 10px;
+    margin-right: 45px;
+}
+
+.Derecha>p{
+    margin-right: 25px;
+    text-align: right;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Imagen3{
+    float: left;
+    margin-top: -111px;
+    border-radius: 5px;
+}
+
+.Derecha>a{
+    border: 1px solid black;
+    background-color: white;
+    border-radius: 3px;
+    color: black;
+    font-weight: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 55%;
+    padding: 5px 10px;
+    text-align: left;
+    text-decoration: none;
+}
